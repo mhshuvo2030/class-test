@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+}
+.header-area{
+	background-image: url(img/picture-bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.header-content {
+  padding: 50px;
+  background-color: white;
+  display: inline-block;
+  width: 450px;
+  margin: 50px;
+  text-align: center;
+}
+.header-content img {
+  width: 80%;
+}
+.header-content a {
+  background-color: orange;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 15px;
+  text-decoration: none;
+}
+.header-content p {
+  margin-top: 10px;
+}
